@@ -1,0 +1,24 @@
+{
+  "originHash" : "227464bced8f755de2a2bdf54254439624c1168fcbc8540d2a961461085609fa",
+  "pins" : [
+    {
+      "identity" : "locationpickerforswiftui",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/alessiorubicini/LocationPickerForSwiftUI",
+      "state" : {
+        "revision" : "aeb1aea83e887676a6dc369566040748773b418d",
+        "version" : "1.1.2"
+      }
+    },
+    {
+      "identity" : "swiftui-map-item-picker",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/lorenzofiamingo/swiftui-map-item-picker",
+      "state" : {
+        "revision" : "48e0bdbcecc901b0cfd6962f0b42225136789c07",
+        "version" : "2.0.0"
+      }
+    }
+  ],
+  "version" : 3
+}
