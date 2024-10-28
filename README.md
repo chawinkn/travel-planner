@@ -4,14 +4,19 @@ My first iOS application project from [Swift Coding Club TH: iOS Developer Bootc
 
 You can plan the trip / travel / journey or whatever you call it, add more location, edit note for reviewing the trip or reminding extra info.
 
-## Main
-
-![main](/img/main.png)
-
-## Map Select
-
-![mapSelect](/img/mapSelect.png)
-
-## Trip Info
-
-![tripInfo](/img/tripInfo.png)
+<table>
+    <tr>
+        <td>
+            <img src="/img/main.png" width="200">
+            <div>Main</div>
+        </td>
+        <td>
+            <img src="/img/mapSelect.png" width="200">
+            <div>Map Select</div>
+        </td>
+        <td>
+            <img src="/img/tripInfo.png" width="200">
+            <div>Trip Info</div>
+        </td>
+    </tr>
+</table>
